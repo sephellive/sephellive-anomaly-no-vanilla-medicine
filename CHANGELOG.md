@@ -1,5 +1,5 @@
 # Changelog
 
-## 0.0.1 - 2026-09-06
+## 0.0.3 - 2026-09-05
 
 - Initial public split of the vanilla medicine removal module.
