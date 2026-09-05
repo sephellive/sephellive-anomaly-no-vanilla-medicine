@@ -1,3 +1,5 @@
 # Changelog
 
-Document notable addon changes here when needed. GitHub generated release notes provide the per-release commit summary.
+## 0.0.1 - 2026-09-06
+
+- Initial public split of the vanilla medicine removal module.
